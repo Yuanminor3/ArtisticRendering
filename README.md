@@ -12,5 +12,5 @@ How to run:
 
 Comments:
 
-    Based on instructor's implementation, the thickness of outline is 0.01 but in my "/src/MeshViewer.ts"'s default thickness value is 0.02, I changed it to 0.01 for better comparison.
+Based on instructor's implementation, the thickness of outline is 0.01 but in my "/src/MeshViewer.ts"'s default thickness value is 0.02, I changed it to 0.01 for better comparison.
 
